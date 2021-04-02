@@ -1,4 +1,4 @@
-最简单的基于Spring Boot/Cloud使用Oauth2分布式鉴权教程.
+最简单的基于Spring Boot/Cloud使用Oauth2分布式鉴权案例.
 
 代码我尽量给出了最简单的形式,只需要你有最基础的Spring Boot基础就能看懂.
 
